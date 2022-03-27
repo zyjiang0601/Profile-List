@@ -1,0 +1,33 @@
+#iTunes Match
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,audio.itunes.apple.com
+
+#Beats 1 直播
+DOMAIN-SUFFIX,itsliveradio.apple.com
+
+#Beats 1 视频
+DOMAIN-SUFFIX,aodp-ssl.apple.com
+
+#iTunes预告片
+DOMAIN-SUFFIX,video-ssl.itunes.apple.com
+
+#MV播放
+DOMAIN-SUFFIX,mvod.itunes.apple.com
+
+#iTunes正片
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+
+#iTunes试听
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+
+#iTunes购买后播放
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+
+iTunes Match资料库
+DOMAIN-SUFFIX,amazonaws.com
+
+
+#疑似iTunes
+#DOMAIN-SUFFIX,xp.apple.com
+#Siri 听写
+#DOMAIN-SUFFIX,guzzoni.apple.com
