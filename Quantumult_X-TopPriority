@@ -1,0 +1,33 @@
+host-suffix, servicewechat.com, 微信代理
+host-suffix, qq.com.cn, 微信代理
+host-suffix, qpic.cn, 微信代理
+host-suffix, weixinbridge.com, 微信代理
+host-suffix, qlogo.cn, 微信代理
+host-suffix, weixin.qq.com, 微信代理
+host-suffix, qpic.com, 微信代理
+host-suffix, qq.com, 微信代理
+host-suffix, myqcloud.com, 微信代理
+ip-cidr, 101.226.212.27/24, 微信代理
+ip-cidr,112.60.0.226/24, 微信代理
+ip-cidr,112.60.0.235/24, 微信代理
+ip-cidr,116.128.163.147/24, 微信代理
+ip-cidr,117.184.242.111/24, 微信代理
+ip-cidr,121.51.130.115/24, 微信代理
+ip-cidr,121.51.166.37/24, 微信代理
+ip-cidr,121.51.90.217/24, 微信代理
+ip-cidr,180.97.7.108/24, 微信代理
+ip-cidr,182.254.88.157/24, 微信代理
+ip-cidr,183.3.234.152/24, 微信代理
+ip-cidr,183.57.48.62/24, 微信代理
+ip-cidr,203.205.239.82/24, 微信代理
+ip-cidr,203.205.239.94/24, 微信代理
+ip-cidr,36.152.5.109/24, 微信代理
+ip-cidr,58.246.220.31/24, 微信代理
+ip-cidr,58.251.80.204/24, 微信代理
+ip-cidr,58.251.82.216/24, 微信代理
+ip-cidr,108.161.213.240/24, 微信代理
+host-suffix,github.com,GitHub
+host-suffix,githubstatus.com,GitHub
+host-suffix,fastly.net,GitHub
+host-suffix,githubusercontent.com,GitHub
+host-suffix,twitter.com,境外网站
