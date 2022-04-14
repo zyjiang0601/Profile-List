@@ -1,3 +1,27 @@
+# 避免迅雷版权问题
+host, hub5idx.v6.shub.sandai.net, reject
+host, hub5emu.v6.shub.sandai.net, reject
+host, hub5btmain.v6.shub.sandai.net, reject
+
+# 银行
+HOST-SUFFIX,95599.cn,direct
+HOST-SUFFIX,abchina.com,direct
+HOST-SUFFIX,bscabank.com,direct
+HOST-SUFFIX,openaboc.cn,direct
+HOST-SUFFIX,openaboc.com,direct
+HOST-SUFFIX,openaboc.com.cn,direct
+
+# 其他
+host-suffix, local, direct
+host-keyword, yattazen, proxy
+host, jdsharedresourcescdn.azureedge.net, proxy
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 17.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+
 host-suffix, servicewechat.com, 微信代理
 host-suffix, qq.com.cn, 微信代理
 host-suffix, qpic.cn, 微信代理
