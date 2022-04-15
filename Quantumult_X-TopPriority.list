@@ -50,8 +50,5 @@ ip-cidr,58.246.220.31/24, 微信代理
 ip-cidr,58.251.80.204/24, 微信代理
 ip-cidr,58.251.82.216/24, 微信代理
 ip-cidr,108.161.213.240/24, 微信代理
-host-suffix,github.com,GitHub
-host-suffix,githubstatus.com,GitHub
-host-suffix,fastly.net,GitHub
-host-suffix,githubusercontent.com,GitHub
+
 host-suffix,twitter.com,境外网站
