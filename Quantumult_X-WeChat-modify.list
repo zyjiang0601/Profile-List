@@ -1,6 +1,6 @@
 # 来源：https://github.com/NobyDa/Script/blob/master/Surge/WeChat.list
 # 上传时间：2022.6.28/更新时间：23天前
-# 修改位置：替换”DOMAIN-KEYWORD,”为”ip-cidr,”; 在所有”ip-cidr”规则后面加入”0/24”
+# 修改位置：替换“DOMAIN-KEYWORD,”为“ip-cidr,”; 在所有“ip-cidr”规则后面加入“0/24”.
 # 需要使用资源解析器
 # ************以*下*为*分*流*规*则**************
 # 该规则集包含绝大部分微信/WeChat网络请求 (IPv4/IPv6)
