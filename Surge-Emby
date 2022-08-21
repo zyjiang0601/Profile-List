@@ -1,28 +1,28 @@
 DOMAIN-KEYWORD, emby
 
 # AGA公益服(中国电信可直连观看)
-DOMAIN, emby.plusmedia.site
+DOMAIN-SUFFIX, emby.plusmedia.site
 
 # CF公益服(仅限挂代理观看)
-DOMAIN, emby-cf.plusmedia.site
+DOMAIN-SUFFIX, emby-cf.plusmedia.site
 
 # 备用服
-DOMAIN, emby.xeton.dev
-DOMAIN, jellyfin.xeton.dev
-DOMAIN, movie.xeton.dev
-DOMAIN, servers.xeton.dev
+DOMAIN-SUFFIX, emby.xeton.dev
+DOMAIN-SUFFIX, jellyfin.xeton.dev
+DOMAIN-SUFFIX, movie.xeton.dev
+DOMAIN-SUFFIX, servers.xeton.dev
 
 # Nexitally/AmyTelecom专属服（仅限美国专用节点观看）
-DOMAIN, emby.nexitally.com
+DOMAIN-SUFFIX, emby.nexitally.com
 
 # Skicat专属服
-DOMAIN, https://skicat.tv
+DOMAIN-SUFFIX, skicat.tv
 
 # Godetia专属服1（猫熊）
-DOMAIN, emby.ssltd.xyz
+DOMAIN-SUFFIX, emby.ssltd.xyz
 
 # Godetia专属服2（3DM）
-DOMAIN, emby.3DMmp.com
+DOMAIN-SUFFIX, emby.3DMmp.com
 
-DOMAIN, tagemby.com
-DOMAIN, jp.emby.cyou
+DOMAIN-SUFFIX, tagemby.com
+DOMAIN-SUFFIX, jp.emby.cyou
