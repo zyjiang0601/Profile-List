@@ -11,6 +11,7 @@ HOST-SUFFIX,openaboc.cn,direct
 HOST-SUFFIX,openaboc.com,direct
 HOST-SUFFIX,openaboc.com.cn,direct
 
+HOST-SUFFIX,aljazeera.com,境外网站
 # 其他
 host-suffix, local, direct
 host-keyword, yattazen, proxy
