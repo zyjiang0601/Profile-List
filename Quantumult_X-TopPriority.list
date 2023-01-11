@@ -53,3 +53,5 @@ ip-cidr,58.251.82.216/24, 微信代理
 ip-cidr,108.161.213.240/24, 微信代理
 
 host-suffix,twitter.com,境外网站
+
+host-suffix,truthsocial.com,🇺🇸 美国节点
