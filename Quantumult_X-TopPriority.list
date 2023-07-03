@@ -12,6 +12,7 @@ HOST-SUFFIX,openaboc.com,direct
 HOST-SUFFIX,openaboc.com.cn,direct
 
 HOST-SUFFIX,aljazeera.com,境外网站
+HOST-SUFFIX,vidhub.tv,direct
 # 其他
 host-suffix, local, direct
 host-keyword, yattazen, proxy
